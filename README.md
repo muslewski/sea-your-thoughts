@@ -3,8 +3,8 @@
 A blog website where you can collect and manage your thoughts efficiently.
 
 ## Showcase
-<img src="https://github.com/muslewski/sea-your-thoughts/blob/main/home.gif" alt="Final Project" width="500"> <img src="https://github.com/muslewski/sea-your-thoughts/blob/main/deepDives.gif" alt="Final Project" width="500">
-<img src="https://github.com/muslewski/sea-your-thoughts/blob/main/logbook.gif" alt="Final Project" width="500"> <img src="https://github.com/muslewski/sea-your-thoughts/blob/main/purpose.gif" alt="Final Project" width="500">
+<img src="https://github.com/muslewski/sea-your-thoughts/blob/main/home.gif" alt="Final Project" width="500"> <img src="https://github.com/muslewski/sea-your-thoughts/blob/main/deepDives.gif" alt="Final Project" width="300">
+<img src="https://github.com/muslewski/sea-your-thoughts/blob/main/logbook.gif" alt="Final Project" width="300"> <img src="https://github.com/muslewski/sea-your-thoughts/blob/main/purpose.gif" alt="Final Project" width="300">
 
 ## Features
 
